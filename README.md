@@ -1,4 +1,4 @@
-# Spring security and its configuration
+# Spring Security and it's configuration
 
 <p>This repository contains multiple project related to spring security <br> Some example are like  :- 
 <br> Spring security with JWT
