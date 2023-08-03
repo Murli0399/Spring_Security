@@ -6,4 +6,4 @@
   <br> Spring security with JWT and role
   <br> Spring security without JWT and with the role
 </p>
-<h3>Every type of spring security-related project you can find here.</h3>
+<h3>Every type of spring security-related project you can find here</h3>
