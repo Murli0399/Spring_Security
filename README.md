@@ -2,7 +2,7 @@
 
 This repository contains multiple projects related to spring security 
 
-  ### Some examples are like:- 
+  ## Some examples are like:- 
 - Spring Security with JWT
 - Spring security without JWT
 - Spring Security with JWT and role
