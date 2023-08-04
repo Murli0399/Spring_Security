@@ -8,4 +8,6 @@ This repository contains multiple projects related to spring security
 - Spring Security with JWT and role
 - Spring security without JWT and with the role
 
-<h3>Every type of spring security-related project you can find here</h3>
+
+Every type of spring security-related project you can find here
+
