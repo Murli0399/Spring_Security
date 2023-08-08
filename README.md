@@ -10,4 +10,3 @@ This repository contains multiple projects related to spring security
 
 
 Every type of spring security-related project you can find here
-
